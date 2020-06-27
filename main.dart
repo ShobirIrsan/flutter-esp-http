@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:http_request/httpCoba.dart' as coba;
+import 'package:http_request/httpCoba.dart' as coba; //sesuaikan dengan nama project anda. "http_request" nama project saya
 void main() {
   runApp(MyApp());
 }
